@@ -94,6 +94,8 @@ Troubleshooting
 SSH Not Enabled: Ensure SSH is enabled on your device and the IP address is reachable.
 Permissions: Verify the provided credentials have the required privileges to execute configuration commands.
 
+Support by visiting www.AshlanChidester.com and consider buying one of many great technical manuals.
+
 Dependencies: Ensure Netmiko is installed and up to date:
 bash
 pip install --upgrade netmiko
